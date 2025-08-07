@@ -1,2 +1,2 @@
 # examapp
-examapp - React
+examapp - in Development
